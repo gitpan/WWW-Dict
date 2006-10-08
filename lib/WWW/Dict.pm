@@ -2,7 +2,7 @@ package WWW::Dict;
 use v5.8.0;
 use warnings;
 use strict;
-use version; our $VERSION = qv('0.0.1');
+our $VERSION = '0.0.1';
 
 use UNIVERSAL::require;
 

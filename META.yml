@@ -14,9 +14,4 @@ requires:
   UNIVERSAL::require: 0
   perl: 5.8.0
   version: 0
-version: !!perl/hash:version 
-  qv: 1
-  version: 
-    - 0
-    - 0
-    - 1
+version: 0.0.1
